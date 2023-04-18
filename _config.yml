@@ -1,0 +1,5 @@
+# Disable directory indexing
+autoindex: false
+
+# Set custom 404 page
+permalink: /404.html
